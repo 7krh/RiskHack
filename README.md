@@ -59,4 +59,9 @@ i might not be able to update
 you can do it your self if you are intrested 
 you need to update some offsets and the il2cpp.h using https://github.com/AndnixSH/Il2CppDumper-GUI
 
---
+---
+
+## Cridet 
+IdolTheDev for Base (https://github.com/IdolTheDev/Il2CPP-Base)
+
+---
