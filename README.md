@@ -24,14 +24,15 @@ RiskCheat — a research & educational scaffold for experimenting with a local/t
 
  RiskCheat is a cheat project for **Risk: Global Domination**. 
  
- This repository includes the base code, starter modules, and CLI ideas that you can expand with more cheats and functionality (such as dice control ).  
+ This repository includes the base code, starter modules, and CLI ideas that you can expand with more cheats and functionality ( such as dice control ).  
  
 ---
 
 ## Features
 
-- **Unlock All **  
-  - Unlock premium features (cosmetics, maps, etc.)  
+- Unlock All 
+  - Unlock cosmetics, maps, etc...
+  - Unlock premium features.  
   - Note: *Does not grant unlimited coins or server-side currency.*
 
 - **Modify Troops**  
