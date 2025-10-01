@@ -7,15 +7,20 @@ RiskCheat repository for research / educational tooling around the game **Risk: 
 
 ---
 
-## What is RiskCheat?
-
-RiskHack is a research/educational toolbox scaffold for exploring and demonstrating safe, offline interactions with the Risk: Global Domination client for learning, debugging, and instrumentation purposes. The repository currently holds starter code, build scripts, and documentation placeholders to help you iterate safely.
-
-**Ethical use cases (examples):**
-- Instrumenting a local test client to learn how the game logic works.
-- Building debugging helpers that run only on a local test environment.
-- Prototyping visualizations of game state from logs or exported data.
-- Replaying captured network logs for offline analysis.
+## Features
+	
+	Works with /GS- compiled drivers
+	Hooks NtAddAtom which exists everywhere and is rarely called
+	Clears MmUnloadedDrivers
+	Clears PiDDBCacheTable
+	Clears g_KernelHashBucketList
+	Clears Wdfilter RuntimeDriverList RuntimeDriverCount and RuntimeDriverArry
+	Use NtLoadDriver and NtUnloadDriver for less traces
+	Prevent load if \Device\Nal exists (Prevents BSOD)
+	Header section skipped while copying driver to kernel
+	Added the possibility to modify params before call driver entry
+	Added PDB_OFFSETS macro that will allow the use of Offset PDB features (choose the target build)
+	Introduced new project "SymbolsFromPDB" that will help KDMapper to adapt quickly to any windows updates by parsing the target .PDB files (PDB_OFFSETS macro must be defined to use this feature)
 
 ---
 
