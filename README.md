@@ -22,16 +22,14 @@ RiskCheat — a research & educational scaffold for experimenting with a local/t
 
 ## Overview
 
-This repository is an initial scaffold intended for offline research, education, and experimentation with exported or local copies of game state for **Risk: Global Domination**. It provides starter modules, CLI ideas, and documentation placeholders so you can iterate safely and responsibly.
-
-**Important:** This project does **not** include or condone tools that bypass protections or give unfair advantages on live servers. All functionality should be implemented and used in offline/test environments only.
-
+RiskCheat is a cheat project for **Risk: Global Domination**.  
+This repository includes the base code, starter modules, and CLI ideas that you can expand with more cheats and functionality (such as dice control).  
 ---
 
 ## Features
 
-- **Unlock All (simulation, offline only)**  
-  - Unlock premium features (cosmetics, maps, etc.) in local/test state files — **does not** grant server-side currency or entitlements.  
+- **Unlock All **  
+  - Unlock premium features (cosmetics, maps, etc.)  
   - Note: *Does not grant unlimited coins or server-side currency.*
 
 - **Modify Troops**  
