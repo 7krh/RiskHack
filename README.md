@@ -1,6 +1,4 @@
 # RiskCheat
-
-RiskCheat — a research & educational scaffold for experimenting with a local/test copy of **Risk: Global Domination**.  
 > ⚠️ **Important — For ethical use only.**  
 > Use RiskCheat only in controlled environments (your own accounts, private servers, or with explicit permission). Do **not** use this project to cheat in online games, circumvent anti-cheat mechanisms, infringe terms of service, or harm other users. The authors are not responsible for misuse.
 
