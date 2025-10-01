@@ -1,6 +1,6 @@
 # RiskCheat
 
-RiskHack is a starter repository for research / educational tooling around the game **Risk: Global Domination**.  
+RiskCheat repository for research / educational tooling around the game **Risk: Global Domination**.  
 > ⚠️ **Important — For ethical use only.**  
 > Use RiskHack only in controlled environments (your own accounts, private servers, or with explicit permission). Do **not** use this project to cheat in online games, circumvent anti-cheat mechanisms, infringe terms of service, or harm other users. The authors are not responsible for misuse.
 
