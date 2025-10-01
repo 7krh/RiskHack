@@ -31,11 +31,7 @@ This repository includes the base code, starter modules, and CLI ideas that you 
   - Note: *Does not grant unlimited coins or server-side currency.*
 
 - **Modify Troops**  
-  - Change troop attributes in exported or local state files for testing and simulation.
-
-- **Change Card Types**  
-  - Alter card metadata in offline state files for replay and analysis.
-
+- **Change Card Types**
 ---
 
 ## Quick notes & safety
