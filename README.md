@@ -8,13 +8,7 @@
 
 - [Overview](#overview)  
 - [Features](#features)  
-- [Quick notes & safety](#quick-notes--safety)  
-- [Parameters (starter CLI)](#parameters-starter-cli)  
-- [Planned / safe features](#planned--safe-features)  
-- [Installation (example)](#installation-example)  
-- [Project layout (suggested)](#project-layout-suggested)  
-- [Contributing](#contributing)  
-- [License](#license)
+- [ How To Use](#How-To-Use)  
 
 ---
 ## Overview
@@ -53,8 +47,4 @@ personally i prefere [Processhacker 2](https://sourceforge.net/projects/processh
 - 7- Have fun!!!
 
 ---
-
-## Parameters (starter CLI)
-
-These flags are **placeholders** for a future CLI. They should be validated and implemented with offline-only checks.
 
