@@ -47,8 +47,6 @@ Personally I prefer [ProcessHacker 2](https://sourceforge.net/projects/processha
 6. Choose `RiskCheat.dll`.  
 7. Have fun!
 
----
-
 ### 📺 Video Tutorial
 
 [![Watch the video](https://img.youtube.com/vi/bV9jiSz5p1o/0.jpg)](https://youtu.be/bV9jiSz5p1o?si=iD76pSPHbdLQKBni)
