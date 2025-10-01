@@ -1,18 +1,13 @@
-# RiskHack
+# RiskCheat
 
 RiskHack is a starter repository for research / educational tooling around the game **Risk: Global Domination**.  
-This README is an initial scaffold — meant to document the project and grow as you add code and features.
-
 > ⚠️ **Important — For ethical use only.**  
 > Use RiskHack only in controlled environments (your own accounts, private servers, or with explicit permission). Do **not** use this project to cheat in online games, circumvent anti-cheat mechanisms, infringe terms of service, or harm other users. The authors are not responsible for misuse.
 
-Tested on: **(fill in the game client versions / OS builds you actually test against)** :warning:
-
-**Note:** This is the initial README. We'll expand sections (features, params, build steps, troubleshooting, examples) as the project grows.
 
 ---
 
-## What is RiskHack?
+## What is RiskCheat?
 
 RiskHack is a research/educational toolbox scaffold for exploring and demonstrating safe, offline interactions with the Risk: Global Domination client for learning, debugging, and instrumentation purposes. The repository currently holds starter code, build scripts, and documentation placeholders to help you iterate safely.
 
