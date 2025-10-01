@@ -57,12 +57,12 @@ Personally, I prefer [ProcessHacker 2](https://sourceforge.net/projects/processh
 ---
 
 ## On Game Update
-I might not be able to update it.  
+I might not be around to update it.  
 You can do it yourself if you are interested.  
 You need to update some offsets and the `il2cpp.h` using [Il2CppDumper-GUI](https://github.com/AndnixSH/Il2CppDumper-GUI).
 
 ---
 
 ## Credit
-IdolTheDev for Base ([Il2CPP-Base](https://github.com/IdolTheDev/Il2CPP-Base))  
 Discord: 7.k_
+IdolTheDev for Base ([Il2CPP-Base](https://github.com/IdolTheDev/Il2CPP-Base))  
