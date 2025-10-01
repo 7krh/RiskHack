@@ -64,4 +64,4 @@ You need to update some offsets and the `il2cpp.h` using [Il2CppDumper-GUI](http
 ---
 
 ## Credit
-IdolTheDev for Base ([GitHub](https://github.com/IdolTheDev/Il2CPP-Base))
+IdolTheDev for Base ([Il2CPP-Base](https://github.com/IdolTheDev/Il2CPP-Base))
