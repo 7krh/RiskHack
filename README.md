@@ -8,9 +8,11 @@ RiskCheat repository for research / educational tooling around the game **Risk: 
 ---
 
 ## Features
-	
-[+] Change Trops.
-[+] Change Cards Type
++ Unlock All :
+- All premim Futures but Not unlimted coins
+- Unluck all (maps, cosmitcs , etc...)
++ Change Trops
++ Change Cards Type
 
 
 ---
