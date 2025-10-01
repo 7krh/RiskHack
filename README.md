@@ -8,43 +8,45 @@
 
 - [Overview](#overview)  
 - [Features](#features)  
-- [ How To Use](#How-To-Use)  
+- [How To Use](#how-to-use)  
 
 ---
 ## Overview
-RiskCheat - a research & educational scaffold for **Risk: Global Domination**.  
-This repository includes the base code, starter modules, and ideas that you can expand with more cheats and functionality ( such as dice control ).  
+RiskCheat — a research & educational scaffold for **Risk: Global Domination**.  
+This repository includes the base code, starter modules, and ideas that you can expand with more cheats and functionality (such as dice control).  
  
 ---
 
 ## Features
 
-- **Unlock All** 
-  - **Unlock cosmetics, maps, etc...**
+- **Unlock All**  
+  - **Unlock cosmetics, maps, etc.**  
   - **Unlock premium features.**  
   - Note: *Does not grant unlimited coins or server-side currency.*
-  
+
 - **Modify Troops**  
-- **Change Cards Types**
-- **Disable/Enable FogOfWar**
-- **Terrtorys Control**:
-  - **Give All Terrtorys(Instant Win)**
-  - **Give Terrtory To Player**
-  - **Make Terrtory Capital**
-  - **Change The Amount Of Troops In the Terrtory** 
+- **Change Card Types**  
+- **Disable / Enable Fog of War**  
+- **Territories Control**:  
+  - **Give All Territories (Instant Win)**  
+  - **Give Territory To Player**  
+  - **Make Territory Capital**  
+  - **Change The Amount Of Troops In The Territory** 
+
 ---
 
 ## How To Use
-You need an injector to be able to use it 
-personally i prefere [Processhacker 2](https://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-2.39-setup.exe/download) 
+You need an injector to be able to use it.  
+Personally I prefer [ProcessHacker 2](https://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-2.39-setup.exe/download).
 
-- 1- biuld or download the RiskCheat.dll 
-- 2- Start Risk 
-- 3- Start Processhacker 
-- 4- in Processhacker search for Risk.exe 
-- 5- right click on Risk.exe than choose Misclossens and inject dll 
-- 6- choose RiskCheat.dll
-- 7- Have fun!!!
+1. Build or download the `RiskCheat.dll`.  
+2. Start Risk.  
+3. Start ProcessHacker.  
+4. In ProcessHacker, search for `Risk.exe`.  
+5. Right-click `Risk.exe`, then choose **Miscellaneous** → **Inject DLL**.  
+6. Choose `RiskCheat.dll`.  
+7. Have fun!
+
+**Video tutorial:** https://youtu.be/bV9jiSz5p1o?si=iD76pSPHbdLQKBni
 
 ---
-
