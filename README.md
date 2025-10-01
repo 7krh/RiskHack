@@ -40,15 +40,9 @@ This repository includes the base code, starter modules, and ideas that you can 
   - **Change The Amount Of Troops In the Terrtory** 
 ---
 
-## Quick notes & safety
-
-- This repository does **NOT** provide or promote methods to bypass anti-cheat or gain unfair advantage in online matches.  
-- Always test on private/local copies of the game or explicitly permitted test environments.  
-- Keep secrets out of the repo (API keys, account credentials, server IPs).  
-- Any code that touches live clients, memory, or network traffic must:
-  - clearly require explicit permission,
-  - implement an offline-only enforcement mode,
-  - include a documented risk checklist.
+## How To Use
+You need an injector to be able to use it 
+personally i prefere [Processhacker 2](https://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-2.39-setup.exe/download) 
 
 ---
 
