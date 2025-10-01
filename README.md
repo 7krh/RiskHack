@@ -49,7 +49,7 @@ Personally I prefer [ProcessHacker 2](https://sourceforge.net/projects/processha
 
 ### 📺 Video Tutorial
 
-[![Watch the video](assets/video-thumbnail-with-play.png)](https://youtu.be/bV9jiSz5p1o)
+[![Watch the video](https://img.youtube.com/vi/bV9jiSz5p1o/0.jpg)](https://youtu.be/bV9jiSz5p1o?si=iD76pSPHbdLQKBni)
 
 
 ---
