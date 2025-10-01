@@ -38,7 +38,6 @@ This repository includes the base code, starter modules, and CLI ideas that you 
   - **Give Terrtory To Player**
   - **Make Terrtory Capital**
   - **Change The Amount Of Troops In the Terrtory** 
-  - **Give All Terrtorys(Instant Win)**
 ---
 
 ## Quick notes & safety
