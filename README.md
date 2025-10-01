@@ -53,3 +53,10 @@ Personally I prefer [ProcessHacker 2](https://sourceforge.net/projects/processha
 
 
 ---
+
+## On Game Update 
+i might not be able to update 
+you can do it your self if you are intrested 
+you need to update some offsets and the il2cpp.h using https://github.com/AndnixSH/Il2CppDumper-GUI
+
+--
