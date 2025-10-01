@@ -38,7 +38,7 @@ This repository includes the base code, starter modules, and ideas that you can 
 You need an injector to be able to use it 
 personally i prefere [Processhacker 2](https://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-2.39-setup.exe/download) 
 
-- 1- biuld or download the Riskhack.dll 
+- 1- biuld or download the RiskCheat.dll 
 - 2- Start Risk 
 - 3- Start Processhacker 
 - 4- in Processhacker search for Risk.exe 
