@@ -22,8 +22,10 @@ RiskCheat — a research & educational scaffold for experimenting with a local/t
 
 ## Overview
 
-RiskCheat is a cheat project for **Risk: Global Domination**.  
-This repository includes the base code, starter modules, and CLI ideas that you can expand with more cheats and functionality (such as dice control).  
+ RiskCheat is a cheat project for **Risk: Global Domination**. 
+ 
+ This repository includes the base code, starter modules, and CLI ideas that you can expand with more cheats and functionality (such as dice control).  
+ 
 ---
 
 ## Features
