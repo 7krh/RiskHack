@@ -9,12 +9,15 @@
 - [Overview](#overview)  
 - [Features](#features)  
 - [How To Use](#how-to-use)  
+- [On Game Update](#on-game-update)  
+- [Credit](#credit)  
 
 ---
+
 ## Overview
 RiskCheat — a research & educational scaffold for **Risk: Global Domination**.  
 This repository includes the base code, starter modules, and ideas that you can expand with more cheats and functionality (such as dice control).  
- 
+
 ---
 
 ## Features
@@ -31,13 +34,13 @@ This repository includes the base code, starter modules, and ideas that you can 
   - **Give All Territories (Instant Win)**  
   - **Give Territory To Player**  
   - **Make Territory Capital**  
-  - **Change The Amount Of Troops In The Territory** 
+  - **Change The Amount Of Troops In The Territory**  
 
 ---
 
 ## How To Use
 You need an injector to be able to use it.  
-Personally I prefer [ProcessHacker 2](https://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-2.39-setup.exe/download).
+Personally, I prefer [ProcessHacker 2](https://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-2.39-setup.exe/download).
 
 1. Build or download the `RiskCheat.dll`.  
 2. Start Risk.  
@@ -51,17 +54,14 @@ Personally I prefer [ProcessHacker 2](https://sourceforge.net/projects/processha
 
 [![Watch the video](https://img.youtube.com/vi/bV9jiSz5p1o/0.jpg)](https://youtu.be/bV9jiSz5p1o?si=iD76pSPHbdLQKBni)
 
+---
+
+## On Game Update
+I might not be able to update it.  
+You can do it yourself if you are interested.  
+You need to update some offsets and the `il2cpp.h` using [Il2CppDumper-GUI](https://github.com/AndnixSH/Il2CppDumper-GUI).
 
 ---
 
-## On Game Update 
-i might not be able to update 
-you can do it your self if you are intrested 
-you need to update some offsets and the il2cpp.h using https://github.com/AndnixSH/Il2CppDumper-GUI
-
----
-
-## Cridet 
-IdolTheDev for Base (https://github.com/IdolTheDev/Il2CPP-Base)
-
----
+## Credit
+IdolTheDev for Base ([GitHub](https://github.com/IdolTheDev/Il2CPP-Base))
