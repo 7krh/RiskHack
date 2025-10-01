@@ -18,7 +18,7 @@
 
 ---
 ## Overview
-RiskCheat — a research & educational scaffold for **Risk: Global Domination**.  
+RiskCheat - a research & educational scaffold for **Risk: Global Domination**.  
 This repository includes the base code, starter modules, and CLI ideas that you can expand with more cheats and functionality ( such as dice control ).  
  
 ---
@@ -34,11 +34,11 @@ This repository includes the base code, starter modules, and CLI ideas that you 
 - **Change Cards Types**
 - **Disable/Enable FogOfWar**
 - **Terrtorys Control**:
- - **Give All Terrtorys(Instant Win)**
- - **Give Terrtory To Player**
- - **Make Terrtory Capital**
- - **Change The Amount Of Troops In the Terrtory** 
- - **Give All Terrtorys(Instant Win)**
+  - **Give All Terrtorys(Instant Win)**
+  - **Give Terrtory To Player**
+  - **Make Terrtory Capital**
+  - **Change The Amount Of Troops In the Terrtory** 
+  - **Give All Terrtorys(Instant Win)**
 ---
 
 ## Quick notes & safety
