@@ -9,8 +9,8 @@ RiskCheat repository for research / educational tooling around the game **Risk: 
 
 ## Features
 	
-+ Change Trops.
-+ Change Cards Type.
+[+] Change Trops
+[+] Change Cards Type
 
 
 ---
