@@ -25,13 +25,20 @@ This repository includes the base code, starter modules, and CLI ideas that you 
 
 ## Features
 
-- Unlock All 
-  - Unlock cosmetics, maps, etc...
-  - Unlock premium features.  
+- **Unlock All** 
+  - **Unlock cosmetics, maps, etc...**
+  - **Unlock premium features.**  
   - Note: *Does not grant unlimited coins or server-side currency.*
-
+  
 - **Modify Troops**  
-- **Change Card Types**
+- **Change Cards Types**
+- **Disable/Enable FogOfWar**
+- **Terrtorys Control**:
+ - **Give All Terrtorys(Instant Win)**
+ - **Give Terrtory To Player**
+ - **Make Terrtory Capital**
+ - **Change The Amount Of Troops In the Terrtory** 
+ - **Give All Terrtorys(Instant Win)**
 ---
 
 ## Quick notes & safety
